@@ -1,7 +1,7 @@
 # Stock-Classifying-Model
 ## Introduction
 
-This is a stock classifying model bases on OpenCV Machine Learning<br>
+This is a stock classifying model bases on OpenCV Machine Learning. Implemented training models based on Artificial Neural Networks (ANN) and Decision Trees (DTree)<br>
 
 ## Features
 
